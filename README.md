@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @KronoxOfficial
+- 👀 I’m interested in Java,PHP
+- 🌱 I’m currently learning Java
